@@ -3,7 +3,7 @@ This is a scheduling website that lets you input text into each box which will s
 ## Instructions 
 Enter text as you please and click the save button for each box as you go to save your work!
 ## Website Preview 
-Need this
+![image](https://github.com/KevinBelknap/thirdpartyapi/assets/128446838/54bedd05-cca9-4b49-bc71-31bd5b1f18c3)
 ## Link to website
 [My Website](https://kevinbelknap.github.io/thirdpartyapi/)
 ## Resource Links
