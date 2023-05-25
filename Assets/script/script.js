@@ -34,7 +34,6 @@ function hourupdater() {
 
   // Get currenhour 
   var currentHour = now.hour();
-
   // time-block color cordinating logic 
   // getting blockhour from the id and the currenthour from our API
   $('.time-block').each(function () {
